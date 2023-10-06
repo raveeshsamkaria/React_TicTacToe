@@ -7,7 +7,9 @@
  cd Backend
  npm install
  npm start
+
 ------------------
+
  - In Frontend Folder:
  cd Frontend
  npm install
